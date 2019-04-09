@@ -1,6 +1,0 @@
-<linker>
-<assembly fullname="UnityEngine.Analytics">
-<type fullname="UnityEngine.Analytics.AnalyticsEventTracker" preserve="all"/>
-<type fullname="UnityEngine.Analytics.AnalyticsTracker" preserve="all"/>
-</assembly>
-</linker>
