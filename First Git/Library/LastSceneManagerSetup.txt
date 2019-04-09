@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/bouncing_ball.unity
+  isLoaded: 1
+  isActive: 1
